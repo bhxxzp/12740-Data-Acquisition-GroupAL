@@ -7,7 +7,7 @@
 **Group Member**: Xinmiao Liu; Mengmeng Pan; Yuanpeng Cao; Peng Zeng
 
 <p align="center">
-  <img src="./img/pr11/photo group member.jpg" width="400">
+  <img src="./img/photo group member.jpg" width="400">
 </p>
 
 ### [Progress report 1 （9.28）](https://github.com/yuanpenc/Yuanpeng.github.io/blob/master/progress%20report/progress%20report%201(9.28).md)
@@ -49,7 +49,7 @@ The specific goals to be achieved in the process of reaching the final goal are 
 The relative humidity (RH) of an air–water mixture is defined as the ratio of the partial pressure of water vapor in the mixture to the equilibrium vapor pressure of water over a flat surface of pure water at a given temperature. It is normally expressed as a percentage; a higher percentage means that the air–water mixture is more humid. At 100% relative humidity, the air is saturated and is at its dewpoint.
 
 <p align="center">
-  <img src="./img/pr11/humid.jpg" width="400">
+  <img src="./img/humid.jpg" width="400">
 </p>
 
 <p align="center">
@@ -73,11 +73,11 @@ Sound signal: Sound signal is detected by sound intensity, which is defined as t
 The average sound intensity during time T is given by
 
 <p align="center">
-  <img src="./img/pr11/fomula1.png" width="150">
+  <img src="./img/fomula1.png" width="150">
 </p>
 Also,
 <p align="center">
-  <img src="./img/pr11/fomula2.png" width="150">
+  <img src="./img/fomula2.png" width="150">
 </p>
 Where,ν is frequency of sound,δ is the amplitude of the sound wave particle displacement,ρ is density of medium in which sound is traveling,c is speed of sound.
 
@@ -85,7 +85,7 @@ Where,ν is frequency of sound,δ is the amplitude of the sound wave particle di
 
 #### DHT11
 <p align="center">
-  <img src="./img/pr11/DHT11.png" width="300">
+  <img src="./img/DHT11.png" width="300">
 </p>
 
 <p align="center">
@@ -93,7 +93,7 @@ Where,ν is frequency of sound,δ is the amplitude of the sound wave particle di
 </p>
 
 <p align="center">
-  <img src="./img/pr11/Our DHT11.jpg" width="300">
+  <img src="./img/Our DHT11.jpg" width="300">
 </p>
 
 <p align="center">
@@ -118,12 +118,12 @@ The ranges and accuracy of the DHT11:
 </p>
 
 <p align="center">
-  <img src="./img/pr11/final chart1.png" width="500">
+  <img src="./img/final chart1.png" width="500">
 </p>
 
 #### 1PCS 3pin Voice Sound Detection Sensor Module
 <p align="center">
-  <img src="./img/pr11/sound module sensor.png" width="300">
+  <img src="./img/sound module sensor.png" width="300">
 </p>
 
 <p align="center">
@@ -131,7 +131,7 @@ The ranges and accuracy of the DHT11:
 </p>
 
 <p align="center">
-  <img src="./img/pr11/Our Sound Detection Sensor.jpg" width="300">
+  <img src="./img/Our Sound Detection Sensor.jpg" width="300">
 </p>
 
 <p align="center">
@@ -146,7 +146,7 @@ This is a multipurpose sound sensor which can be used to sense sound and audio. 
 
 ##### Sensor Characteristics
 <p align="center">
-  <img src="./img/pr11/sound module char.png" width="500">
+  <img src="./img/sound module char.png" width="500">
 </p>
 
 <p align="center">
@@ -162,7 +162,7 @@ When less sensitive, it takes more sound to trigger the device and when more sen
 
 #### 5V-2 Channel Relay Module
 <p align="center">
-  <img src="./img/pr11/Our 5V-2channel Relay Sensor.jpg" width="500">
+  <img src="./img/Our 5V-2channel Relay Sensor.jpg" width="500">
 </p>
 
 <p align="center">
@@ -178,7 +178,7 @@ When less sensitive, it takes more sound to trigger the device and when more sen
 See the picture below: A is an electromagnet, B armature, C spring, D moving contact, and E fixed contacts. There are two fixed contacts, a normally closed one and a normally open one. When the coil is not energized, the normally open contact is the one that is off, while the normally closed one is the other that is on.
 
 <p align="center">
-  <img src="./img/pr11/1.jpg" width="300">
+  <img src="./img/1.jpg" width="300">
 </p>
 
 <p align="center">
@@ -194,7 +194,7 @@ IN2: Signal triggering terminal 2 of relay module
 Each submodular of the relay has one NC(nomalclose), one NO(nomalopen) and one COM(Common). So, there are 2 NC, 2 NO and 2 COM of the channel relay in total. NC stands for the normal close port contact and the state without power; No stands for the normal open port contact and the state with power. COM means the common port. You can choose NC port or NO port according to whether power or not.
 ## Experiments
 <p align="center">
-  <img src="./img/pr11/Whole Circuit.jpg" width="500">
+  <img src="./img/Whole Circuit.jpg" width="500">
 </p>
 
 <p align="center">
@@ -202,7 +202,7 @@ Each submodular of the relay has one NC(nomalclose), one NO(nomalopen) and one C
 </p>
 
 <p align="center">
-  <img src="./img/pr11/Circuit.png" width="700">
+  <img src="./img/Circuit.png" width="700">
 </p>
 
 <p align="center">
@@ -210,7 +210,7 @@ Each submodular of the relay has one NC(nomalclose), one NO(nomalopen) and one C
 </p>
 
 <p align="center">
-  <img src="./img/pr11/Our module.jpg" width="700">
+  <img src="./img/Our module.jpg" width="700">
 </p>
 
 <p align="center">
@@ -218,7 +218,7 @@ Each submodular of the relay has one NC(nomalclose), one NO(nomalopen) and one C
 </p>
 
 <p align="center">
-  <img src="./img/pr11/Our model2.jpg" width="700">
+  <img src="./img/Our model2.jpg" width="700">
 </p>
 
 <p align="center">
@@ -244,12 +244,12 @@ At the beginning, we set three different modules as the following sheet.
   Table 2. Mode of controlling fans
 </p>
 <p align="center">
-  <img src="./img/pr11/Mode of controlling Fans.png" width="700">
+  <img src="./img/Mode of controlling Fans.png" width="700">
 </p>
 
 Then, we don’t know the fan efficiency, so we cannot calculate the fan work. However, we know the rated voltage and the rated current of two fans, therefore, we can calculate the rated power theoretically. Due to the above reason, if we can know how long the fan works, we can calculate the power consumption of them. We decide to use control variates method in order to eliminate the external interference. However, because it is hard to control the humidity in the experiment box when we use the portable garment steamer to humidify the box, we set the same time to humidify to promise the vapor the box gets is the same. After the fan turning off, we can get the time how long the humidity becomes from high humidity to low humidity and use the following function to calculate the power consumption.
 <p align="center">
-  <img src="./img/pr11/exper fomula1.png" width="150">
+  <img src="./img/exper fomula1.png" width="150">
 </p>
 Where, P is the power consumption, U is the rated voltage, I is the rated current and T is the measuring time.
 
@@ -272,7 +272,7 @@ Where, P is the power consumption, U is the rated voltage, I is the rated curren
 In order to keep the indoor humidity to reach the pre-setting value and promise the effect of removing vapor with the lowest energy consumption, our group set up two fans with delay. When the humidity is lower than 70%, the first fan will turn off in 30s to promise that the humidity will not return higher than 70%. The same thing happens below 50%. The method can be explained as the following figure:
 
 <p align="center">
-  <img src="./img/pr11/ExperimentExpectation.png" width="700">
+  <img src="./img/ExperimentExpectation.png" width="700">
 </p>
 
 <p align="center">
@@ -287,7 +287,7 @@ Because of the real indoor environment, we change the criteria of the setting hu
 1. Meet our Expectation:
 
 <p align="center">
-  <img src="./img/pr11/One of the Data Result.png" width="700">
+  <img src="./img/One of the Data Result.png" width="700">
 </p>
 
 <p align="center">
@@ -303,7 +303,7 @@ As we expected, one of our testing data is similar to the experiment expectation
 </p>
 
 <p align="center">
-  <img src="./img/pr11/Raw Data of three Modules.png" width="700">
+  <img src="./img/Raw Data of three Modules.png" width="700">
 </p>
 
 <p align="center">
@@ -311,11 +311,11 @@ As we expected, one of our testing data is similar to the experiment expectation
 </p>
 
 <p align="center">
-  <img src="./img/pr11/Power consumptions of three Modules.png" width="700">
+  <img src="./img/Power consumptions of three Modules.png" width="700">
 </p>
 
 <p align="center">
-  <img src="./img/pr11/Electrical Work in Different Modules.png" width="700">
+  <img src="./img/Electrical Work in Different Modules.png" width="700">
 </p>
 
 <p align="center">
@@ -327,7 +327,7 @@ As we expected, one of our testing data is similar to the experiment expectation
 </p>
 
 <p align="center">
-  <img src="./img/pr11/Data Analysis of three Modules.png" width="700">
+  <img src="./img/Data Analysis of three Modules.png" width="700">
 </p>
 
 After collecting and cleaning all the sets of data, we make the figure and tables above. The figure 15 is about the electrical work in different modules. The table 3 is the raw data, which is about how long the time of humidity decreasing from 95% to 55%. In the mode1, the first column is 30s/140s, which means how long two fans worked together and how long the last one fan worked when the second fan closed. In other words, it took 30s for two fans working and took 140s for last one fan working. The table 4 is shown the total power consumption of each mode in each time. The orange blank means the bad value, which we need to exclude. We use excel to help us make the data analysis. From the table 5, we can know that the mean of mode 1 is the smallest, which means that over the 23 experiment times, the mode 1 cost the lowest electric consumption. The standard deviation of the mode 1 is also the smallest, which means the fluctuation of data is the smallest. Both double fans and single fans are not stable. Although the range is not the smallest, we think it can be accepted compared with others. To sum up, the mode 1 is the best way to lower the humidity in model bathroom compared with the mode 2 and mode 3.
@@ -349,7 +349,7 @@ OpenChirp is a management framework for Low-Power Wide-Area Networks (LP-WAN) th
 Following are pictures of the results of our code and images drawn by OpenChirp websit.
 
 <p align="center">
-  <img src="./img/pr11/openchirp code result.png" width="700">
+  <img src="./img/openchirp code result.png" width="700">
 </p>
 
 <p align="center">
@@ -358,7 +358,7 @@ Following are pictures of the results of our code and images drawn by OpenChirp 
 After we click Fan on and light on buttons as we shown in the video, the results of codes turn out to be 1, which means the light and fan are already turn on. Otherwise, if we run the Fan off and light off commands, the results begin to be 0, which means light off and fan off. 
 
 <p align="center">
-  <img src="./img/pr11/openchirp images.png" width="700">
+  <img src="./img/openchirp images.png" width="700">
 </p>
 
 <p align="center">
@@ -370,7 +370,7 @@ The images generated by OpenChirp are corresponding to the values detected by Ra
 Also, we published the data detected by DHT11 sensor. The line chart is time series for the change of humidity and temperature.
 
 <p align="center">
-  <img src="./img/pr11/openchirp tem&hum.png" width="700">
+  <img src="./img/openchirp tem&hum.png" width="700">
 </p>
 
 <p align="center">
@@ -379,7 +379,7 @@ Also, we published the data detected by DHT11 sensor. The line chart is time ser
 
 We also published our data of sound module sensor. The image below only shows two values, 1 and 0, because the sound module sensor is binary and can only generate binary output values. 
 <p align="center">
-  <img src="./img/pr11/openchirp soundmodule.png" width="700">
+  <img src="./img/openchirp soundmodule.png" width="700">
 </p>
 
 <p align="center">
@@ -392,7 +392,7 @@ We also published our data of sound module sensor. The image below only shows tw
 * We could use Python or Matlab to draw a signal graph and do more signal graph analyzing. For example, we could input a music to Python and output a sound signal graph by using building a mathematical function in Python. The music signal graph is shown as in figure.
 
 <p align="center">
-  <img src="./img/pr11/signal.jpg" width="700">
+  <img src="./img/signal.jpg" width="700">
 </p>
 <p align="center">
   Figure 20. A music signal graph 
