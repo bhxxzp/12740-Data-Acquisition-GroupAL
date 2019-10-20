@@ -22,7 +22,7 @@
 
 ## Introduction
 <p align="center">
-  <img src="./img/pr11/Bathing.gif" width="400">
+  <img src="./img/Bathing.gif" width="400">
 </p>
 
 With the rapid development of science and technology, our life is becoming more and more convenient, the intelligent level of household is also improving. The bathroom, a place we use every day, naturally attracts us to make more efforts to make it smarter. 
